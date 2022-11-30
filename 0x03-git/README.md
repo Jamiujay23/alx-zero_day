@@ -1,2 +1,2 @@
- # Software Engineering certificate in view 
- # I will surely get there.
+ # I am enjoying my coding session 
+ # With perseverance I will surely get there
